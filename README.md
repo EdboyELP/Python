@@ -1,2 +1,2 @@
 # Python
-Python projects I have worked on
+A repository showcasing my Python projects.
